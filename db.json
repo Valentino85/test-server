@@ -1,42 +1,99 @@
-{
-  "products": [
-    {
-      "id": "PRD001",
-      "brand": "Apple",
-	  "model": "Iphone 7",
-	  "description": "Iphone 7 description",
-	  "imageUrl" : "https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
-    },
-	{
-      "id": "PRD002",
-      "brand": "Samsung",
-	  "model": "Galaxy Note 8",
-	  "description": "Galaxy Note description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD003",
-      "brand": "Huawei",
-	  "model": "P10",
-	  "description": "Huawei P10 description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD004",
-      "brand": "Motorola",
-	  "model": "Style X",
-	  "description": "Motorola Style X description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD005",
-      "brand": "Nokia",
-	  "model": "P50",
-	  "description": "Nokia P50 description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+{  
+   "abo":{  
+      "abotabs":[  
+         {  
+            "id":"inonemob",
+            "name":"inOne Mobile",
+            "aboDetails":[  
+               {  
+                  "id":"xsml",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"sml",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"med",
+                  "description":[  
+                     {  
+                        "features":[  
+                           {  
+                              "name":"Unlimited",
+                              "value":"Calls, SMS/MMS, Internet"
+                           },
+                           {  
+                              "name":"Internet",
+                              "value":"Highspeed Internet"
+                           },
+                           {  
+                              "name":"Calls",
+                              "value":"100 min. International calls"
+                           },
+                           {  
+                              "name":"SMS/MMS",
+                              "value":"60 days in EU/Western Europe, Outside EU/Western Europe SMS, 100 MB"
+                           }
+                        ]
+                     },
+                     {  
+                        "price":{  
+                           "listPrice":90,
+                           "duration":"month",
+                           "preferredChoice":"without mobile phone"
+                        }
+                     },
+                     {  
+                        "aboImage":{  
+                           "image":"/content/abo/aboMed.jpg"
+                        }
+                     },
+                     {  
+                        "promotion":{  
+                           "offers":"Get 10% off on Credit Card"
+                        }
+                     }
+                  ]
+               },
+               {  
+                  "id":"lrg",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"xlrg",
+                  "description":[  
+
+                  ]
+               }
+            ]
+         },
+         {  
+            "id":"inonemoblgt",
+            "name":"inOne Mobile light",
+            "aboDetails":{  
+
+            }
+         },
+         {  
+            "id":"preplan",
+            "name":"Prepaid",
+            "aboDetails":{  
+
+            }
+         },
+         {  
+            "id":"inonemobudr26",
+            "name":"For everyone under 26",
+            "aboDetails":{  
+
+            }
+         }
+      ]
+   }
 }
