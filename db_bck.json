@@ -1,0 +1,99 @@
+{  
+   "abo":{  
+      "abotabs":[  
+         {  
+            "id":"inonemob",
+            "name":"inOne Mobile",
+            "aboDetails":[  
+               {  
+                  "id":"xsml",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"sml",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"med",
+                  "description":[  
+                     {  
+                        "features":[  
+                           {  
+                              "name":"Unlimited",
+                              "value":"Calls, SMS/MMS, Internet"
+                           },
+                           {  
+                              "name":"Internet",
+                              "value":"Highspeed Internet"
+                           },
+                           {  
+                              "name":"Calls",
+                              "value":"100 min. International calls"
+                           },
+                           {  
+                              "name":"SMS/MMS",
+                              "value":"60 days in EU/Western Europe, Outside EU/Western Europe SMS, 100 MB"
+                           }
+                        ]
+                     },
+                     {  
+                        "price":{  
+                           "listPrice":90,
+                           "duration":"month",
+                           "preferredChoice":"without mobile phone"
+                        }
+                     },
+                     {  
+                        "aboImage":{  
+                           "image":"/content/abo/aboMed.jpg"
+                        }
+                     },
+                     {  
+                        "promotion":{  
+                           "offers":"Get 10% off on Credit Card"
+                        }
+                     }
+                  ]
+               },
+               {  
+                  "id":"lrg",
+                  "description":[  
+
+                  ]
+               },
+               {  
+                  "id":"xlrg",
+                  "description":[  
+
+                  ]
+               }
+            ]
+         },
+         {  
+            "id":"inonemoblgt",
+            "name":"inOne Mobile light",
+            "aboDetails":{  
+
+            }
+         },
+         {  
+            "id":"preplan",
+            "name":"Prepaid",
+            "aboDetails":{  
+
+            }
+         },
+         {  
+            "id":"inonemobudr26",
+            "name":"For everyone under 26",
+            "aboDetails":{  
+
+            }
+         }
+      ]
+   }
+}
