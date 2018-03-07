@@ -5,7 +5,7 @@
       "brand": "Apple",
 	  "model": "Iphone 7",
 	  "description": "Iphone 7 description",
-	  "imageUrl" : "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
+	  "imageUrl" : "https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
     },
 	{
       "id": "PRD002",
@@ -44,6 +44,6 @@
       "brand": "Apple",
 	  "model": "Iphone 7",
 	  "description": "Iphone 7 description",
-	  "imageUrl" : "https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
+	  "imageUrl" : "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
     }
 }
