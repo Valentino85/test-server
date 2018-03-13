@@ -46,70 +46,58 @@
          {  
             "title":"Unlimitiert",
             "description":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"Telefonieren, Surfen, SMS in der Schweiz"
                      }
                   }
-               ]
             ],
             "extendedDescription":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"An extendedDescription feature-text."
                      }
                   }
-               ]
             ]
          },
          {  
             "title":"Highspeed",
             "description":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"Internet"
                      }
                   }
-               ]
             ],
             "extendedDescription":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"An extendedDescription feature-text."
                      }
                   }
-               ]
             ]
          },
          {  
             "title":"Unlimitiert",
             "description":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"Anrufe ins Ausland"
                      }
                   }
-               ]
             ],
             "extendedDescription":[  
-               [  
                   {  
                      "type":"feature-text",
                      "content":{  
                         "text":"An extendedDescription feature-text."
                      }
                   }
-               ]
             ]
          }
 		],
