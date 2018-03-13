@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "id": "PRD001",
+      "brand": "Apple",
+	  "model": "Iphone 7",
+	  "description": "Iphone 7 description",
+	  "imageUrl" : "https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
+    },
+	{
+      "id": "PRD002",
+      "brand": "Samsung",
+	  "model": "Galaxy Note 8",
+	  "description": "Galaxy Note description",
+	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+    },
+	{
+      "id": "PRD003",
+      "brand": "Huawei",
+	  "model": "P10",
+	  "description": "Huawei P10 description",
+	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+    },
+	{
+      "id": "PRD004",
+      "brand": "Motorola",
+	  "model": "Style X",
+	  "description": "Motorola Style X description",
+	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+    },
+	{
+      "id": "PRD005",
+      "brand": "Nokia",
+	  "model": "P50",
+	  "description": "Nokia P50 description",
+	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "PRD001":{
+      "id": "PRD001",
+      "brand": "Apple",
+	  "model": "Iphone 7",
+	  "description": "Iphone 7 description",
+	  "imageUrl" : "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
+    }
+}

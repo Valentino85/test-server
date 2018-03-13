@@ -1,49 +1,107 @@
-{
-  "products": [
-    {
-      "id": "PRD001",
-      "brand": "Apple",
-	  "model": "Iphone 7",
-	  "description": "Iphone 7 description",
-	  "imageUrl" : "https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
-    },
+[
 	{
-      "id": "PRD002",
-      "brand": "Samsung",
-	  "model": "Galaxy Note 8",
-	  "description": "Galaxy Note description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD003",
-      "brand": "Huawei",
-	  "model": "P10",
-	  "description": "Huawei P10 description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD004",
-      "brand": "Motorola",
-	  "model": "Style X",
-	  "description": "Motorola Style X description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    },
-	{
-      "id": "PRD005",
-      "brand": "Nokia",
-	  "model": "P50",
-	  "description": "Nokia P50 description",
-	  "imageUrl" : "https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "PRD001":{
-      "id": "PRD001",
-      "brand": "Apple",
-	  "model": "Iphone 7",
-	  "description": "Iphone 7 description",
-	  "imageUrl" : "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
-    }
-}
+		"title": "inOne Mobile M",
+		"imageUrl": "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491578330888.png/inone-mobile-xl-res-220x232.png",
+		"detailsUrl": "",
+		"features": [
+			{
+				"title": "Unlimited",
+				"description": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "Calls, SMS/MMS, Internet"
+						}
+					}
+				],
+				"extendedDescription": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "To all mobile and fixed networks in Switzerland and Liechtenstein. Calls to business, short-dial and special numbers are chargeable."
+						}
+					}
+				]
+			},
+			{
+				"title": "Internet",
+				"description": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "Highspeed Internet"
+						}
+					}
+				],
+				"extendedDescription": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "Highspeed Up- and Download Speed\n\nIn Swisscom Public WLAN up to 20 Mbit/s download and 2 Mbit/s upload."
+						}
+					}
+				]
+			},
+			{
+				"title": "100 min.",
+				"description": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "International calls"
+						}
+					}
+				],
+				"extendedDescription": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "100 min. international calls per month to EU/Western Europe, USA, Canada \nExcludes value-added services and special numbers."
+						}
+					}
+				]
+			},
+			{
+				"title": "60 days",
+				"description": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "60 days in EU/Western Europe\n\nOutside EU/Western Europe SMS, 100 MB"
+						}
+					}
+				],
+				"extendedDescription": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "EU/Western Europe   \nCalls, SMS/MMS, Internet (3 GB)  \n \n\nAbout roaming days\n\n \n\nOutside EU/Western Europe   \nPer month 1000 SMS/MMS inclusive\n100 MB surfing per year\n\nExcludes value-added services and special numbers. The inclusive units cannot be used on ships and ferries and on flights."
+						}
+					}
+				]
+			},
+			{
+				"title": "10.-/mth.",
+				"description": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "Multi Device"
+						}
+					}
+				],
+				"extendedDescription": [
+					{
+						"type": "feature-text",
+						"content": {
+							"type": "Surfing and calling on one extra device\n\nUp to 20 GB in Switzerland inclusive. When 20 GB are reached, the connection speed will be reduced. No additional costs are however incurred.\n\nMore about Multi Device"
+						}
+					}
+				]
+			}
+		],
+		"priceWithoutDevice": "90.00",
+		"priceWithDevice": "100.00",
+		"badgeText": "Empfehlung"
+	}
+]
