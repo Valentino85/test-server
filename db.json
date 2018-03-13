@@ -41,9 +41,78 @@
   },
   "PRD001":{
       "id": "PRD001",
-      "brand": "Apple",
-	  "model": "Iphone 7",
-	  "description": "Iphone 7 description",
+      "name": "inOne mobile M",
+	  "features":[  
+         {  
+            "title":"Unlimitiert",
+            "description":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"Telefonieren, Surfen, SMS in der Schweiz"
+                     }
+                  }
+               ]
+            ],
+            "extendedDescription":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"An extendedDescription feature-text."
+                     }
+                  }
+               ]
+            ]
+         },
+         {  
+            "title":"Highspeed",
+            "description":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"Internet"
+                     }
+                  }
+               ]
+            ],
+            "extendedDescription":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"An extendedDescription feature-text."
+                     }
+                  }
+               ]
+            ]
+         },
+         {  
+            "title":"Unlimitiert",
+            "description":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"Anrufe ins Ausland"
+                     }
+                  }
+               ]
+            ],
+            "extendedDescription":[  
+               [  
+                  {  
+                     "type":"feature-text",
+                     "content":{  
+                        "text":"An extendedDescription feature-text."
+                     }
+                  }
+               ]
+            ]
+         }
+		]
 	  "imageUrl" : "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
     }
 }
