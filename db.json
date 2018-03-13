@@ -45,48 +45,42 @@
       "features":[  
          {  
             "title":"Unlimitiert",
-            "description":[  
+            "description":  
                {  
                   "type":"feature-text",
                   "content":"Telefonieren, Surfen, SMS in der Schweiz"
-               }
-            ],
-            "extendedDescription":[  
+               },
+            "extendedDescription":  
                {  
                   "type":"feature-text",
                   "content":"An extendedDescription feature-text."
                }
-            ]
          },
          {  
             "title":"Highspeed",
-            "description":[  
+            "description": 
                {  
                   "type":"feature-text",
                   "content":"Internet"
-               }
-            ],
-            "extendedDescription":[  
+               },
+            "extendedDescription":  
                {  
                   "type":"feature-text",
                   "content":"An extendedDescription feature-text."
                }
-            ]
          },
          {  
             "title":"Unlimitiert",
-            "description":[  
+            "description":  
                {  
                   "type":"feature-text",
                   "content":"Anrufe ins Ausland"
-               }
-            ],
-            "extendedDescription":[  
+               },
+            "extendedDescription":  
                {  
                   "type":"feature-text",
                   "content":"An extendedDescription feature-text."
                }
-            ]
          }
       ],
       "imageUrl":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
