@@ -78,13 +78,13 @@
             "description":[  
                   {  
                      "type":"feature-text",
-                     "content":"text":"Anrufe ins Ausland"
+                     "content":"Anrufe ins Ausland"
                   }
             ],
             "extendedDescription":[  
                   {  
                      "type":"feature-text",
-                     "content":"text":"An extendedDescription feature-text."
+                     "content":"An extendedDescription feature-text."
                   }
             ]
          }
