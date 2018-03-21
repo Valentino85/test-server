@@ -39,45 +39,50 @@
    "profile":{  
       "name":"typicode"
    },
-   "PRD001":
-   [
-      {
-	  "self": {
-		"rel": "rel",
-		"rev": "rev",
-		"type": "type",
-		"uri": "url",
-		"href": "href"
-	  },
-	  "messages": [
-		"messages"
-	  ],
-	  "links": [
-		{
-		  "rel": "rel",
-		  "rev": "rev",
-		  "type": "type",
-		  "uri": "uri",
-		  "href": "href"
-		}
-	  ],
-	  "productType": "Abo",
-	  "name": "InOneMobileM",
-	  "code": "PRD001",
-	  "web": {
-		"imageUrl": "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491578330888.png/inone-mobile-xl-res-220x232.png",
-		"detail": "detail",
-		"description": {
-		  "features": [
-			{
-			  "key": "key",
-			  "longDescription": "longDesc",
-			  "name": "name",
-			  "shortDescription": "shortDesc"
-			}
-		  ]
-		}
-	  }
-	}
-	]
+   "PRD001":{  
+      "id":"PRD001",
+      "name":"inOne mobile M",
+      "features":[  
+         {  
+            "title":"Unlimitiertt",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Telefonieren, Surfen, SMS in der Schweiz"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Highspeed",
+            "description": 
+               {  
+                  "type":"feature-text",
+                  "content":"Internet"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Unlimitiert",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Anrufe ins Ausland"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         }
+      ],
+      "imageUrl":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
+   }
 }
