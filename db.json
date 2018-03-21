@@ -39,7 +39,53 @@
    "profile":{  
       "name":"typicode"
    },
-   "PRD001":
+   "PRD001":{  
+      "id":"PRD001",
+      "name":"inOne mobile M",
+      "features":[  
+         {  
+            "title":"Unlimitiertt",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Telefonieren, Surfen, SMS in der Schweiz"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Highspeed",
+            "description": 
+               {  
+                  "type":"feature-text",
+                  "content":"Internet"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Unlimitiert",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Anrufe ins Ausland"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         }
+      ],
+      "imageUrl":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
+   },
+   "PRD002":
       {
 	  "self": {
 		"rel": "rel",
