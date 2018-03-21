@@ -73,6 +73,12 @@
 			  "longDescription": "longDesc",
 			  "name": "name",
 			  "shortDescription": "shortDesc"
+			},
+			{
+			  "key": "key2",
+			  "longDescription": "longDesc2",
+			  "name": "name2",
+			  "shortDescription": "shortDesc2"
 			}
 		  ]
 		}
