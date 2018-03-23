@@ -106,25 +106,37 @@
 		  "href": "href"
 		}
 	  ],
-	  "productType": "Abo",
-	  "name": "InOneMobileM",
-	  "code": "PRD001",
+	  "productType": "Bundle",
+	  "name": "inOne Mobile M",
+	  "code": "NG_LEGO_MOBILE_M",
 	  "web": {
 		"imageUrl": "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491578330888.png/inone-mobile-xl-res-220x232.png",
 		"detail": "detail",
 		"description": {
 		  "features": [
 			{
-			  "key": "key",
-			  "longDescription": "longDesc",
-			  "name": "name",
-			  "shortDescription": "shortDesc"
+			  "key": "AboUnlimitedLocal",
+			  "longDescription": "To all mobile and fixed networks in the Switzerland and Liechtenstein. Calls to business, short dial and special.",
+			  "name": "unlimited",
+			  "shortDescription": "Calls, SMS/MMS, Internet"
 			},
 			{
-			  "key": "key2",
-			  "longDescription": "longDesc2",
-			  "name": "name2",
-			  "shortDescription": "shortDesc2"
+			  "key": "AboUnlimitedInternet",
+			  "longDescription": "Hightspeed Up and Downloadspeed in Swisscom Public WLAN up to 20 Mbit/s download and 2 Mbit/s upload.",
+			  "name": "Internet",
+			  "shortDescription": "Hightspeed Internet"
+			},
+			{
+			  "key": "AboUnlimitedCall",
+			  "longDescription": "100 min. international calls per month to EU/Western Europe, USA, Canada excludes value added services",
+			  "name": "100 min.",
+			  "shortDescription": "International calls"
+			},
+			{
+			  "key": "AboSms",
+			  "longDescription": "EU/Western Europe Calls, SMS/MMS, Internet (3GB) About roaming days Outside EU/Western Europe per month.",
+			  "name": "60 Days",
+			  "shortDescription": "60 days ub EU/Western Europe Outside EU/Western Europe SMS, 100 MB"
 			}
 		  ]
 		}
