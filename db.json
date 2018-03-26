@@ -106,7 +106,7 @@
 		  "href": "href"
 		}
 	  ],
-	  "productType": "Bundle",
+	  "product-type": "Bundle",
 	  "name": "inOne Mobile M",
 	  "code": "NG_LEGO_MOBILE_M",
 	  "web": {
