@@ -86,60 +86,60 @@
       "imageUrl":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
    },
    "PRD002":
-      {
-	  "self": {
-		"rel": "rel",
-		"rev": "rev",
-		"type": "type",
-		"uri": "url",
-		"href": "href"
-	  },
-	  "messages": [
-		"messages"
-	  ],
-	  "links": [
-		{
-		  "rel": "rel",
-		  "rev": "rev",
-		  "type": "type",
-		  "uri": "uri",
-		  "href": "href"
-		}
-	  ],
-	  "product-type": "Bundle",
-	  "name": "inOne Mobile M",
-	  "code": "NG_LEGO_MOBILE_M",
-	  "web": {
-		"imageUrl": "https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491578330888.png/inone-mobile-xl-res-220x232.png",
-		"detail": "detail",
-		"description": {
-		  "features": [
-			{
-			  "key": "AboUnlimitedLocal",
-			  "longDescription": "To all mobile and fixed networks in the Switzerland and Liechtenstein. Calls to business, short dial and special.",
-			  "name": "unlimited",
-			  "shortDescription": "Calls, SMS/MMS, Internet"
-			},
-			{
-			  "key": "AboUnlimitedInternet",
-			  "longDescription": "Hightspeed Up and Downloadspeed in Swisscom Public WLAN up to 20 Mbit/s download and 2 Mbit/s upload.",
-			  "name": "Internet",
-			  "shortDescription": "Hightspeed Internet"
-			},
-			{
-			  "key": "AboUnlimitedCall",
-			  "longDescription": "100 min. international calls per month to EU/Western Europe, USA, Canada excludes value added services",
-			  "name": "100 min.",
-			  "shortDescription": "International calls"
-			},
-			{
-			  "key": "AboSms",
-			  "longDescription": "EU/Western Europe Calls, SMS/MMS, Internet (3GB) About roaming days Outside EU/Western Europe per month.",
-			  "name": "60 Days",
-			  "shortDescription": "60 days ub EU/Western Europe Outside EU/Western Europe SMS, 100 MB"
-			}
-		  ]
-		}
-	  }
+      {  
+	   "self":{  
+		  "type":"subscriptions.mobile-subscription",
+		  "uri":"/subscriptions/swisscomstore/jzdv6tcfi5hv6tkpijeuyrk7ju=",
+		  "href":"http://127.0.0.1:9080/cortex/subscriptions/swisscomstore/jzdv6tcfi5hv6tkpijeuyrk7ju="
+	   },
+	   "messages":[  
+
+	   ],
+	   "links":[  
+
+	   ],
+	   "code":"NG_LEGO_MOBILE_M",
+	   "name":"inOne Mobile M ",
+	   "product-type":"Bundle",
+	   "report-modification-timestamp":"",
+	   "report-modification-user":"",
+	   "web":{  
+		  "description":{  
+			 "features":[  
+				{  
+				   "key":"AboUnlimitedLocal",
+				   "long-description":"To all mobile and fixed networks in\n\t\t\t\t\tSwitzerland and Liechtenstein. Calls to business, short-dial and\n\t\t\t\t\tspecial numbers are chargeable.\n\t\t\t\t",
+				   "name":"Unlimited ",
+				   "short-description":"Calls, SMS/MMS, Internet "
+				},
+				{  
+				   "key":"AboUnlimitedInternet",
+				   "long-description":"Highspeed Up- and Download Speed\n\n\t\t\t\t\tIn Swisscom\n\t\t\t\t\tPublic WLAN up to 20 Mbit/s download and 2 Mbit/s upload. (een)\n\t\t\t\t",
+				   "name":"Internet ",
+				   "short-description":"Highspeed Internet "
+				},
+				{  
+				   "key":"AboUnlimitedCall",
+				   "long-description":"100 min. international calls per month to\n\t\t\t\t\tEU/Western Europe, USA, Canada\n\t\t\t\t\tExcludes value-added services and\n\t\t\t\t\tspecial numbers.\n\t\t\t\t",
+				   "name":"100 min. ",
+				   "short-description":"International calls "
+				},
+				{  
+				   "key":"AboSms",
+				   "long-description":"EU/Western Europe\n\t\t\t\t\tCalls, SMS/MMS, Internet (3\n\t\t\t\t\tGB)\n\n\n\t\t\t\t\tAbout roaming days\n\n\n\n\t\t\t\t\tOutside EU/Western Europe\n\t\t\t\t\tPer month 1000\n\t\t\t\t\tSMS/MMS inclusive\n\t\t\t\t\t100 MB surfing per year\n\n\t\t\t\t\tExcludes value-added\n\t\t\t\t\tservices and special numbers. The inclusive units\n\t\t\t\t\tcannot be used on\n\t\t\t\t\tships and ferries and on flights.\n\t\t\t\t",
+				   "name":"60 days ",
+				   "short-description":"60 days in EU/Western Europe\n\n\t\t\t\t\tOutside EU/Western\n\t\t\t\t\tEurope SMS, 100 MB\n\t\t\t\t"
+				},
+				{  
+				   "key":"",
+				   "long-description":"Surfing and calling on one extra device\n\n\t\t\t\t\tUp to\n\t\t\t\t\t20 GB in Switzerland inclusive. When 20 GB are reached, the\n\t\t\t\t\tconnection speed will be reduced. No additional costs are however\n\t\t\t\t\tincurred.\n\n\t\t\t\t\tMore about Multi Device\n\t\t\t\t",
+				   "name":"10.-/mth. ",
+				   "short-description":"Multi Device "
+				}
+			 ]
+		  },
+		  "detail":"Detail ",
+		  "image-url":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png\n\t\t\t\t"
+	   }
 	}
 }
