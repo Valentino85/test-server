@@ -26,14 +26,21 @@
          "brand":"Motorola",
          "model":"Style X",
          "description":"Motorola Style X description",
-         "imageUrl":"https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+         "imageUrl":"https://im1.shopmania.org/files/p/t/817/huawei-p9-lite-mini~12822817.jpg"
       },
       {  
          "id":"PRD005",
          "brand":"Nokia",
          "model":"P50",
          "description":"Nokia P50 description",
-         "imageUrl":"https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+         "imageUrl":"https://drop.ndtv.com/TECH/product_database/images/432014122914AM_635_nokia_lumia_630_dual_sim.jpeg"
+      },
+	  {  
+         "id":"PRD006",
+         "brand":"LG",
+         "model":"V40",
+         "description":"LG V40 description",
+         "imageUrl":"https://www.91-img.com/pictures/129314-v5-lg-v40-thinq-mobile-phone-large-1.jpg"
       }
    ],
    "profile":{  
