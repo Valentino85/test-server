@@ -1,0 +1,152 @@
+{  
+   "products":[  
+      {  
+         "id":"PRD0011s",
+         "brand":"Apple",
+         "model":"Iphone 7",
+         "description":"Iphone 7 description",
+         "imageUrl":"https://store.storeimages.cdn-apple.com//4662//as-images.apple.com//is//image//AppleInc//aos//published//images//i//ph//iphone7//rosegold//iphone7-rosegold-select-2016?wid=470&hei=556&fmt=jpeg&qlt=95&op_sharpen=0&resMode=bicub&op_usm=0.5,0.5,0,0&iccEmbed=0&layer=comp&.v=1472430205982"
+      },
+      {  
+         "id":"PRD002",
+         "brand":"Samsung",
+         "model":"Galaxy Note 8",
+         "description":"Galaxy Note description",
+         "imageUrl":"https://ss7.vzw.com//is//image//VerizonWireless//pdp-samsung-great-feature1-d-0817?$pngalpha$&scl=1&scl=2"
+      },
+      {  
+         "id":"PRD003",
+         "brand":"Huawei",
+         "model":"P10",
+         "description":"Huawei P10 description",
+         "imageUrl":"https://www.bhphotovideo.com/images/images2500x2500/huawei_51090rgp_honor_8_32gb_smartphone_1494354142000_1269304.jpg"
+      },
+      {  
+         "id":"PRD004",
+         "brand":"Motorola",
+         "model":"Style X",
+         "description":"Motorola Style X description",
+         "imageUrl":"https://im1.shopmania.org/files/p/t/817/huawei-p9-lite-mini~12822817.jpg"
+      },
+      {  
+         "id":"PRD005",
+         "brand":"Nokia",
+         "model":"P50",
+         "description":"Nokia P50 description",
+         "imageUrl":"https://drop.ndtv.com/TECH/product_database/images/432014122914AM_635_nokia_lumia_630_dual_sim.jpeg"
+      },
+	  {  
+         "id":"PRD006",
+         "brand":"LG",
+         "model":"V40",
+         "description":"LG V40 description",
+         "imageUrl":"https://www.91-img.com/pictures/129314-v5-lg-v40-thinq-mobile-phone-large-1.jpg"
+      }
+   ],
+   "profile":{  
+      "name":"typicode"
+   },
+   "PRD001":{  
+      "id":"PRD001",
+      "name":"inOne mobile M",
+      "features":[  
+         {  
+            "title":"Unlimitiertt",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Telefonieren, Surfen, SMS in der Schweiz"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Highspeed",
+            "description": 
+               {  
+                  "type":"feature-text",
+                  "content":"Internet"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         },
+         {  
+            "title":"Unlimitiert",
+            "description":  
+               {  
+                  "type":"feature-text",
+                  "content":"Anrufe ins Ausland"
+               },
+            "extendedDescription":  
+               {  
+                  "type":"feature-text",
+                  "content":"An extendedDescription feature-text."
+               }
+         }
+      ],
+      "imageUrl":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png"
+   },
+   "PRD002":
+      {  
+	   "self":{  
+		  "type":"subscriptions.mobile-subscription",
+		  "uri":"/subscriptions/swisscomstore/jzdv6tcfi5hv6tkpijeuyrk7ju=",
+		  "href":"http://127.0.0.1:9080/cortex/subscriptions/swisscomstore/jzdv6tcfi5hv6tkpijeuyrk7ju="
+	   },
+	   "messages":[  
+
+	   ],
+	   "links":[  
+
+	   ],
+	   "code":"NG_LEGO_MOBILE_M",
+	   "name":"inOne Mobile M ",
+	   "product-type":"Bundle",
+	   "report-modification-timestamp":"",
+	   "report-modification-user":"",
+	   "web":{  
+		  "description":{  
+			 "features":[  
+				{  
+				   "key":"AboUnlimitedLocal",
+				   "long-description":"To all mobile and fixed networks in\n\t\t\t\t\tSwitzerland and Liechtenstein. Calls to business, short-dial and\n\t\t\t\t\tspecial numbers are chargeable.\n\t\t\t\t",
+				   "name":"Unlimited ",
+				   "short-description":"Calls, SMS/MMS, Internet "
+				},
+				{  
+				   "key":"AboUnlimitedInternet",
+				   "long-description":"Highspeed Up- and Download Speed\n\n\t\t\t\t\tIn Swisscom\n\t\t\t\t\tPublic WLAN up to 20 Mbit/s download and 2 Mbit/s upload. (een)\n\t\t\t\t",
+				   "name":"Internet ",
+				   "short-description":"Highspeed Internet "
+				},
+				{  
+				   "key":"AboUnlimitedCall",
+				   "long-description":"100 min. international calls per month to\n\t\t\t\t\tEU/Western Europe, USA, Canada\n\t\t\t\t\tExcludes value-added services and\n\t\t\t\t\tspecial numbers.\n\t\t\t\t",
+				   "name":"100 min. ",
+				   "short-description":"International calls "
+				},
+				{  
+				   "key":"AboSms",
+				   "long-description":"EU/Western Europe\n\t\t\t\t\tCalls, SMS/MMS, Internet (3\n\t\t\t\t\tGB)\n\n\n\t\t\t\t\tAbout roaming days\n\n\n\n\t\t\t\t\tOutside EU/Western Europe\n\t\t\t\t\tPer month 1000\n\t\t\t\t\tSMS/MMS inclusive\n\t\t\t\t\t100 MB surfing per year\n\n\t\t\t\t\tExcludes value-added\n\t\t\t\t\tservices and special numbers. The inclusive units\n\t\t\t\t\tcannot be used on\n\t\t\t\t\tships and ferries and on flights.\n\t\t\t\t",
+				   "name":"60 days ",
+				   "short-description":"60 days in EU/Western Europe\n\n\t\t\t\t\tOutside EU/Western\n\t\t\t\t\tEurope SMS, 100 MB\n\t\t\t\t"
+				},
+				{  
+				   "key":"",
+				   "long-description":"Surfing and calling on one extra device\n\n\t\t\t\t\tUp to\n\t\t\t\t\t20 GB in Switzerland inclusive. When 20 GB are reached, the\n\t\t\t\t\tconnection speed will be reduced. No additional costs are however\n\t\t\t\t\tincurred.\n\n\t\t\t\t\tMore about Multi Device\n\t\t\t\t",
+				   "name":"10.-/mth. ",
+				   "short-description":"Multi Device "
+				}
+			 ]
+		  },
+		  "detail":"Detail ",
+		  "image-url":"https://rcp.scsstatic.ch/content/dam/swisscom/de/res/public/mobile/abos-tarife/infinity/inone-mobile-m-res-220x232.png.220x232.ts1491465719124.png/inone-mobile-m-res-220x232.png\n\t\t\t\t"
+	   }
+	}
+}
